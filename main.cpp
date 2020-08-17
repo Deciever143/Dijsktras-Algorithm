@@ -73,7 +73,7 @@ void dijkstra(int graph[V][V], int src)
 // driver program to test above function 
 int main() 
 { 
-	/* Let us create the example graph discussed above */
+	
 	int graph[V][V] = { { 0, 4, 0, 0, 0, 0, 0, 8, 0 }, 
 						{ 4, 0, 8, 0, 0, 0, 0, 11, 0 }, 
 						{ 0, 8, 0, 7, 0, 4, 0, 0, 2 }, 
